@@ -2,7 +2,7 @@
 A simple list of tasks to perform .
 
 ## Demo
- [here](https://gmsandrzej.github.io/05_HomeWorkGitCalculator/).
+ [here](https://gmsandrzej.github.io/06_HomeWorkToDoList/).
 
 ## Description
 A simple list of tasks to perform using Java Script and  grid attribute.
