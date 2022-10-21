@@ -1,5 +1,6 @@
 # 06_HomeWorkToDoList
 A simple list of tasks to perform .
+![ListToDO](image/screen.png)
 
 ## Demo
  [here](https://gmsandrzej.github.io/06_HomeWorkToDoList/).
